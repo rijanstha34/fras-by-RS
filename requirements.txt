@@ -1,0 +1,9 @@
+VS Build Tools: Desktop C++
+pip install cmake
+pip install dlib
+pip install face_recognition
+pip install opencv-python
+numpy
+csv
+
+add your images in faces folder in replace of student1.jpeg, student2.jpeg
